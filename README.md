@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shariar Shahnawaz Shuvon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A Bug Bounty Hunter from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvonsec&label=Profile%20views&color=0e75b6&style=flat" alt="shuvonsec" /> </p>
 
