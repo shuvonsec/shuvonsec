@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvonsec&label=Profile%20views&color=0e75b6&style=flat" alt="shuvonsec" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvonsec" alt="shuvonsec" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/shuvonsec" target="blank"><img src="https://img.shields.io/twitter/follow/shuvonsec?logo=twitter&style=for-the-badge" alt="shuvonsec" /></a> </p>
+
 - ⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
 
 - ⚡ I’m currently learning **Bu Bounty Hunting , Recon**
@@ -34,4 +38,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shuvonsec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuvonsec" /></a><a href="https://ko-fi.com/shuvonsec"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvonsec&show_icons=true&locale=en&layout=compact" alt="shuvonsec" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvonsec&show_icons=true&locale=en&layout=compact" alt="shuvonsec" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvonsec&show_icons=true&locale=en" alt="shuvonsec" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvonsec&" alt="shuvonsec" /></p>
