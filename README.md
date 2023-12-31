@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvonsec(https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onestar)" alt="shuvonsec" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/shuvonsec" target="blank"><img src="https://img.shields.io/twitter/follow/shuvonsec?logo=twitter&style=for-the-badge" alt="shuvonsec" /></a> </p>
-
 <div align="center">
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&color=030A0E&random=false&width=500&height=70&lines=I'm+a+Bug+Bounty+Hunter" alt="Typing SVG" /></a></h3>
 
