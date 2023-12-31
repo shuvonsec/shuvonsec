@@ -52,7 +52,8 @@
 <hr/>
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center">🚀 Some Tools I Have Used and Learned</h2>
+<br/>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux,androidstudio,powershell" />
