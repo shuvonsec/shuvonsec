@@ -1,6 +1,6 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1AF71F&random=false&width=435&lines=Assalamu+Alaikum%2C+I'm++Shuvon" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1AF71F&multiline=true&random=false&width=435&lines=Hello%2C+I'm+Shuvon+" alt="Typing SVG" /></a></h1>
 
-<h3 align="center">A Bug Bounty Hunter from Bangladesh</h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1AF71F&multiline=true&random=false&width=435&lines=I'm+a+Bug+Bounty+Hunter+" alt="Typing SVG" /></a></h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shuvonsec&label=Profile%20views&color=0e75b6&style=flat" alt="shuvonsec" /> </p>
 
