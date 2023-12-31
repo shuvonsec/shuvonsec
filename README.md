@@ -25,7 +25,7 @@
 
    </div>
    <div align="center"> 
- <h2 align="center">**Connect with me**:</h2>
+ <h2 align="center"><bold>Connect With Me:</bold></h2>
 <p align="center">
 <a href="https://twitter.com/shuvonsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvonsec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shuvonsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvonsec" height="30" width="40" /></a>
