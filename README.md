@@ -2,7 +2,7 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=000000&multiline=true&random=false&width=435&lines=I'm+a+Bug+Bounty+Hunter+" alt="Typing SVG" /></a></a></h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shuvonsec&label=Profile%20views&color=0e75b6&style=flat" alt="shuvonsec" /> </p>
+<p align="right"> <img src="[https://komarev.com/ghpvc/?username=shuvonsec&label=Profile%20views&color=0e75b6&style=flat](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)" alt="shuvonsec" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvonsec" alt="shuvonsec" /></a> </p>
 
@@ -42,10 +42,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
-
-
-
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shuvonsec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuvonsec" /></a><a href="https://ko-fi.com/shuvonsec"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a></p><br><br>
