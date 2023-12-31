@@ -12,7 +12,6 @@
 
 - ⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
 
-- ⚡ I’m currently learning **Bug Bounty Hunting, Penetration Testing**
 
 - ⚡ I’m also a Bug Bounty Hunter on [Bugcrowd](https://www.bugcrowd.com/)
 
@@ -23,6 +22,7 @@
 - 📫 How to reach me **shuvonofc@gmail.com**
 
 - ⚡ Fun fact **I Don't learn to hack, hack to learn.**
+-  ⚡ I’m currently learning **Bug Bounty Hunting, Penetration Testing**
    </div>
 
 <h3 align="left">Connect with me:</h3>
