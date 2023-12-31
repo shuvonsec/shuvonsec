@@ -8,24 +8,24 @@
 <div align="center">
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&color=030A0E&random=false&width=500&height=70&lines=I'm+a+Bug+Bounty+Hunter" alt="Typing SVG" /></a></h3>
 
+ 💬 Ask me about **Bug Bunty Hunting**
+ 
+ 📫 How to reach me **shuvonofc@gmail.com**
+ 
  ⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
 
  ⚡ I’m also a Bug Bounty Hunter on [Bugcrowd](https://www.bugcrowd.com/)
- 
- 💬 Ask me about **Bug Bunty Hunting**
 
- 📫 How to reach me **shuvonofc@gmail.com**
-
- 📝 I regularly write articles on [shuvonsec.com](shuvonsec.com)
- 
  ⚡ Fun fact **I Don't learn to hack, hack to learn.**
+ 
+ 📝 I regularly write articles on [shuvonsec.com](shuvonsec.com)
  
  ⚡ I’m currently learning **Bug Bounty Hunting, Penetration Testing**
  <br>
 
    </div>
    <div align="center"> 
- <h2 align="center">Connect with me:</h2>
+ <h2 align="center">**Connect with me**:</h2>
 <p align="center">
 <a href="https://twitter.com/shuvonsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvonsec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shuvonsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvonsec" height="30" width="40" /></a>
