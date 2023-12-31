@@ -4,8 +4,7 @@
 <hr/>
 
 <div align="center">
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&color=030A0E&random=false&width=500&height=70&lines=I'm+a+Bug+Bounty+Hunter" alt="Typing SVG" /></a></h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvonsec" alt="shuvonsec" /></a> </p>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=32DF1C&random=false&width=500&height=70&lines=I'm+a+Bug+Bounty+Hunter." alt="Typing SVG" /></a> </p>
  
 ⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
 
@@ -81,9 +80,9 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/shuvonsec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuvonsec" /></a><a href="https://ko-fi.com/shuvonsec"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a><br><br>
 <hr/>
-<hr/>
+
  
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=020801&random=false&width=500&height=70&lines=Thanks+for+visiting+my+profile." alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=32DF1C&random=false&width=500&height=70&lines=Thanks+for+visiting+my+profile.+" alt="Typing SVG" /></a>
 </hr>
 
 
