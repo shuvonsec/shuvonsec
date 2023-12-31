@@ -80,6 +80,8 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/shuvonsec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuvonsec" /></a><a href="https://ko-fi.com/shuvonsec"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a><br><br>
 <hr/>
+ 
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=32DF1C&random=false&width=500&height=70&lines=Thanks+for+visiting+my+profile.+" alt="Typing SVG" /></a>
