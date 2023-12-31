@@ -37,7 +37,8 @@
     </div>
  
  <hr/>
-    
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvonsec" alt="shuvonsec" /></a> </p>
+  <hr/>
   
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2
 <br/>
