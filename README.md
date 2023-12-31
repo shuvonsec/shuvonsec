@@ -74,7 +74,8 @@
 <br/><br/>
 
 <hr/>
-
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=020801&random=false&width=500&height=70&lines=Thanks+for+visiting+my+profile." alt="Typing SVG" /></a></h1>
+</hr>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shuvonsec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuvonsec" /></a><a href="https://ko-fi.com/shuvonsec"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a></p><br><br>
 
