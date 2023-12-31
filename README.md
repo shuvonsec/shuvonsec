@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/shuvonsec" target="blank"><img src="https://img.shields.io/twitter/follow/shuvonsec?logo=twitter&style=for-the-badge" alt="shuvonsec" /></a> </p>
 
+<div align="center">
+
 - ⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
 
 - ⚡ I’m currently learning **Bug Bounty Hunting, Penetration Testing**
@@ -21,6 +23,7 @@
 - 📫 How to reach me **shuvonofc@gmail.com**
 
 - ⚡ Fun fact **I Don't learn to hack, hack to learn.**
+   </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
