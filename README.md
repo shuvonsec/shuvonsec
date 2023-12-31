@@ -36,6 +36,9 @@
      <a href="https://twitter.com/shuvonsec" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank" />
   </a>
+    <a href="https://reddit.com/shuvonsec" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 
