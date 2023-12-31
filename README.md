@@ -7,12 +7,8 @@
 
 <div align="center">
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&color=030A0E&random=false&width=500&height=70&lines=I'm+a+Bug+Bounty+Hunter" alt="Typing SVG" /></a></h3>
-
- 💬 Ask me about **Bug Bunty Hunting**
  
- 📫 How to reach me **shuvonofc@gmail.com**
- 
- ⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
+⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
 
  ⚡ I’m also a Bug Bounty Hunter on [Bugcrowd](https://www.bugcrowd.com/)
 
@@ -21,6 +17,11 @@
  📝 I regularly write articles on [shuvonsec.com](shuvonsec.com)
  
  ⚡ I’m currently learning **Bug Bounty Hunting, Penetration Testing**
+
+ 💬 Ask me about **Bug Bunty Hunting**
+ 
+ 📫 How to reach me **shuvonofc@gmail.com**
+ 
  <br>
 
    </div>
