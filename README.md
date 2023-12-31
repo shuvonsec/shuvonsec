@@ -47,8 +47,9 @@
     <img src="https://skillicons.dev/icons?i=git,linux,androidstudio,powershell,bash,docker,github,gitlab,go" /><br>
 </div>
 
-<br/>
-<hr/>
+ <br/>
+ <hr/>
+ 
 
  
 <h3 align="left">Support:</h3>
