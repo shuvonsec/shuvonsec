@@ -37,11 +37,10 @@
 <a href="https://www.leetcode.com/shuvonsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvonsec" height="30" width="40" /></a>
 </p>
     </div>
-    <br/><br/><br/>
+    <br/>
     
-    
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2
 <br/>
 
 <div align="center">
