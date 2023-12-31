@@ -21,6 +21,7 @@
  ⚡ Fun fact **I Don't learn to hack, hack to learn.**
  
  ⚡ I’m currently learning **Bug Bounty Hunting, Penetration Testing**
+ <br>
 
    </div>
    <div align="center"> 
