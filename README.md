@@ -2,7 +2,6 @@
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&random=false&width=500&height=70&lines=Hi%2C+I'm+Shuvonsec" alt="Typing SVG" /></a></h1>
 <hr/>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shuvonsec&label=Profile%20views&color=0e75b6&style=flat" alt="shuvonsec" /> </p>
 
 <div align="center">
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&color=030A0E&random=false&width=500&height=70&lines=I'm+a+Bug+Bounty+Hunter" alt="Typing SVG" /></a></h3>
