@@ -37,7 +37,8 @@
 <a href="https://www.leetcode.com/shuvonsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvonsec" height="30" width="40" /></a>
 </p>
     </div>
-    <br/>
+ 
+ <hr/>
     
   
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2
@@ -56,7 +57,9 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+
+   <br/>
+ <hr/>
 </div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
