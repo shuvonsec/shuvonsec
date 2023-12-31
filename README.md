@@ -59,14 +59,27 @@
   
   <br/><br/><br/>
 </div>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shuvonsec&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shuvonsec&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shuvonsec&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+
+<br/><br/>
+
+<hr/>
 
 <hr/>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shuvonsec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuvonsec" /></a><a href="https://ko-fi.com/shuvonsec"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvonsec&show_icons=true&locale=en&layout=compact" alt="shuvonsec" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvonsec&show_icons=true&locale=en" alt="shuvonsec" /></p>
+
+
 
 
