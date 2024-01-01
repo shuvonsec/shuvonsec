@@ -1,10 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shuvonsec.shuvonsec" />
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&duration=4000&pause=1000&random=false&width=500&height=70&lines=Hi%2C+I'm+Shuvonsec" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0BEB2E&random=false&width=350&height=70&lines=Assalamu+Alaikum" alt="Typing SVG" /></a>
+<br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0BEB2E&random=false&width=250&height=70&lines=%F0%9D%97%9C'%F0%9D%97%A0+%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%A9%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%96" alt="Typing SVG" /></a></h1>
 <hr/>
 
 <div align="center">
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&pause=1000&color=15D426E4&random=false&width=350&height=70&lines=%E2%80%8B%F0%9F%87%AE%E2%80%8B%E2%80%8B'%F0%9F%87%B2%E2%80%8B+%CA%99%E1%B4%9C%C9%A2%CA%9C%E1%B4%9C%C9%B4%E1%B4%9B%E1%B4%87%CA%80+x+%E1%B4%98%E1%B4%87%C9%B4%E1%B4%9B%E1%B4%87%EA%9C%B1%E1%B4%9B%E1%B4%87%CA%80" alt="Typing SVG" /></a> </p>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0BEB2E&random=false&width=385&height=70&lines=%E2%80%8B%F0%9F%87%AE%E2%80%8B%E2%80%8B'%F0%9F%87%B2%E2%80%8B+%E2%80%8B%F0%9F%87%A6%E2%80%8B+%CA%99%E1%B4%9C%C9%A2%CA%9C%E1%B4%9C%C9%B4%E1%B4%9B%E1%B4%87%CA%80+x+%E1%B4%98%E1%B4%87%C9%B4%E1%B4%9B%E1%B4%87%EA%9C%B1%E1%B4%9B%E1%B4%87%CA%80" alt="Typing SVG" /></a> </p>
+<hr/>
  
 ⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
 
@@ -20,11 +23,10 @@
  
  📫 How to reach me **shuvonofc@gmail.com**
  
- <br>
-
    </div>
    <div align="center"> 
  <h2 align="center"><bold>Connect With Me:</bold></h2>
+    <hr/>
 <p align="center">
 <a href="https://twitter.com/shuvonsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shuvonsec" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shuvonsec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvonsec" height="30" width="40" /></a>
