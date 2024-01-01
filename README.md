@@ -2,7 +2,7 @@
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0BEB2E&random=false&width=350&height=70&lines=Assalamu+Alaikum" alt="Typing SVG" /></a>
 <br>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0BEB2E&random=false&width=250&height=70&lines=%F0%9D%97%9C'%F0%9D%97%A0+%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%A9%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%96" alt="Typing SVG"/></a>  <img align="50%center" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150"> 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0BEB2E&random=false&width=250&height=70&lines=%F0%9D%97%9C'%F0%9D%97%A0+%F0%9D%97%A6%F0%9D%97%9B%F0%9D%97%A8%F0%9D%97%A9%F0%9D%97%A2%F0%9D%97%A1%F0%9D%97%A6%F0%9D%97%98%F0%9D%97%96" alt="Typing SVG"/></a>  <img align="50%right" src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="150"> 
 
 </h1>
 <hr/>
