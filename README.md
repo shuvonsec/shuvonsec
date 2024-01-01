@@ -8,7 +8,7 @@
 <hr/>
 
 <div align="center">
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0BEB2E&random=false&width=385&height=70&lines=%E2%80%8B%F0%9F%87%AE%E2%80%8B%E2%80%8B'%F0%9F%87%B2%E2%80%8B+%E2%80%8B%F0%9F%87%A6%E2%80%8B+%CA%99%E1%B4%9C%C9%A2%CA%9C%E1%B4%9C%C9%B4%E1%B4%9B%E1%B4%87%CA%80+x+%E1%B4%98%E1%B4%87%C9%B4%E1%B4%9B%E1%B4%87%EA%9C%B1%E1%B4%9B%E1%B4%87%CA%80" alt="Typing SVG" /></a> </p>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F743&random=false&width=410&height=70&lines=%F0%9D%99%B8'%F0%9D%99%BC+%F0%9D%99%B0+%F0%9D%99%B1%F0%9D%9A%84%F0%9D%99%B6%F0%9D%99%B7%F0%9D%9A%84%F0%9D%99%BD%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%81+%F0%9D%9A%87+%F0%9D%99%BF%F0%9D%99%B4%F0%9D%99%BD%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%81" alt="Typing SVG" /></a> </p>
 <hr/>
  
 ⚡ I’m Bug Bounty Hunter on [HckerOne](https://www.hackerone.com/)
