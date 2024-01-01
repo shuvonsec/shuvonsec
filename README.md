@@ -83,7 +83,7 @@
 <h2 align="center">Support:</h3>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/shuvonsec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="350" alt="shuvonsec" /></a><a href="https://ko-fi.com/shuvonsec"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a><br><br>
+<a href="https://www.buymeacoffee.com/shuvonsec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuvonsec" /></a><a href="https://ko-fi.com/shuvonsec"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a><br><br>
 <hr/>
  
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
