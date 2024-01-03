@@ -1,4 +1,4 @@
-<img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box">
+
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shuvonsec.shuvonsec" />
