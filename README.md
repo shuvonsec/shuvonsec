@@ -1,3 +1,6 @@
+<img src="http://www.hackthebox.eu/badge/image/677144" alt="Hack The Box">
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shuvonsec.shuvonsec" />
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0BEB2E&random=false&width=350&height=70&lines=Assalamu+Alaikum" alt="Typing SVG" /></a>
