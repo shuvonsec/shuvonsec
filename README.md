@@ -20,8 +20,6 @@
  ⚡ Fun fact **I Don't learn to hack, hack to learn.**
  
  📝 I regularly write articles on [shuvonsec.com](shuvonsec.com)
- 
- ⚡ I’m currently learning **Bug Bounty Hunting, Penetration Testing**
 
  💬 Ask me about **Bug Bunty Hunting**
  
