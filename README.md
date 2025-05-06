@@ -18,8 +18,6 @@
  ⚡ I’m also a Bug Bounty Hunter on [Bugcrowd](https://www.bugcrowd.com/)
 
  ⚡ Fun fact **I Don't learn to hack, hack to learn.**
- 
- 📝 I regularly write articles on [shuvonsec.com](shuvonsec.com)
 
  💬 Ask me about **Bug Bunty Hunting**
  
