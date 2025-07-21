@@ -21,7 +21,7 @@
 
  💬 Ask me about **Bug Bunty Hunting**
  
- 📫 How to reach me **shuvonofc@gmail.com**
+ 📫 How to reach me **shuvonsec@gmail.com**
  
    </div>
    <div align="center"> 
@@ -38,9 +38,6 @@
 </p>
     </div>
  
- <hr/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvonsec" alt="shuvonsec" /></a> </p>
-  <hr/>
   
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2
 <br/>
