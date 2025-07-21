@@ -87,8 +87,6 @@
 ![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=15F740&random=false&width=400&height=70&lines=%E2%80%8B%F0%9F%87%B9%E2%80%8B%E2%80%8B%F0%9F%87%AD%E2%80%8B%E2%80%8B%F0%9F%87%A6%E2%80%8B%E2%80%8B%F0%9F%87%B3%E2%80%8B%E2%80%8B%F0%9F%87%B0%E2%80%8B%E2%80%8B%F0%9F%87%B8%E2%80%8B+%E2%80%8B%F0%9F%87%AB%E2%80%8B%E2%80%8B%F0%9F%87%B4%E2%80%8B%E2%80%8B%F0%9F%87%B7%E2%80%8B+%E2%80%8B%F0%9F%87%BB%E2%80%8B%E2%80%8B%F0%9F%87%AE%E2%80%8B%E2%80%8B%F0%9F%87%B8%E2%80%8B%E2%80%8B%F0%9F%87%AE%E2%80%8B%E2%80%8B%F0%9F%87%B9%E2%80%8B%E2%80%8B%F0%9F%87%AE%E2%80%8B%E2%80%8B%F0%9F%87%B3%E2%80%8B%E2%80%8B%F0%9F%87%AC%E2%80%8B+%E2%80%8B%F0%9F%87%B2%E2%80%8B%E2%80%8B%F0%9F%87%BE%E2%80%8B+%E2%80%8B%F0%9F%87%B5%E2%80%8B%E2%80%8B%F0%9F%87%B7%E2%80%8B%E2%80%8B%F0%9F%87%B4%E2%80%8B%E2%80%8B%F0%9F%87%AB%E2%80%8B%E2%80%8B%F0%9F%87%AE%E2%80%8B%E2%80%8B%F0%9F%87%B1%E2%80%8B%E2%80%8B%F0%9F%87%AA%E2%80%8B" alt="Typing SVG" /></a>
-</hr>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF76C&width=435&lines=Thanks+for+Visiting+My+Profile+" alt="Typing SVG" /></a>
 
 
