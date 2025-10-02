@@ -10,7 +10,7 @@
 <hr/>
 
 <div align="center">
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F743&random=false&width=410&height=70&lines=%F0%9D%99%B8'%F0%9D%99%BC+%F0%9D%99%B0+%F0%9D%99%B1%F0%9D%9A%84%F0%9D%99%B6%F0%9D%99%B7%F0%9D%9A%84%F0%9D%99%BD%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%81+%F0%9D%9A%87+%F0%9D%99%BF%F0%9D%99%B4%F0%9D%99%BD%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%81" alt="Typing SVG" /></a> </p>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F743&random=false&width=410&height=70&lines=%F0%9D%99%B8'%F0%9D%99%BC+%F0%9D%99%B0+%F0%9D%99%B1%F0%9D%9A%84%F0%9D%99%B6%F0%9D%99%B7%F0%9D%9A%84%F0%9D%99%BD%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%81+%F0%9D%9A%87+%F0%9D%99%BF%F0%9D%99%B4%F0%9D%99%BD%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%81" alt="Typing SVG" /></a>
 <hr/>
  
  ⚡ 𝗠𝘆 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 [Shuvonsec](https://www.shuvonsec.me/)
