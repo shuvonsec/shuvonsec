@@ -155,7 +155,7 @@ Fingerprint tech > find known vulns
 ### GitHub Stats
 
 <picture>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvonsec&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border_radius=10" alt="streak"/>
+  <img width="390" src="https://streak-stats.demolab.com/?user=shuvonsec&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border_radius=10" alt="streak"/>
 </picture>
 <picture>
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=shuvonsec&count_private=true&show_icons=true&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=ffffff&border_radius=10&rank_icon=github" alt="stats"/>
