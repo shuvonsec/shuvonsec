@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/shuvonsec.me-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.shuvonsec.me/)
-[![AwareXone](https://img.shields.io/badge/AwareXone-0d1117?style=for-the-badge&logo=shield&logoColor=00ff41)](https://awarexone.com)
+[![Portfolio](https://img.shields.io/badge/shuvonsec.me-00FF41?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://www.shuvonsec.me/)
+[![AwareXone](https://img.shields.io/badge/AwareXone-00FF41?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://awarexone.com)
 
 </div>
 
@@ -73,17 +73,17 @@ Founder & CEO @ **[AwareXone](https://awarexone.com)** | Building a Community-Po
 <table>
 <tr>
 <td align="center" width="33%">
-<img width="60" src="https://img.shields.io/badge/NASA-000000?style=for-the-badge&logo=nasa&logoColor=white" /><br/>
+<img width="60" src="https://img.shields.io/badge/NASA-0d1117?style=for-the-badge&logo=nasa&logoColor=00ff41" /><br/>
 <b>NASA Hall of Fame</b><br/>
 <sub>Critical vuln disclosure at 17</sub>
 </td>
 <td align="center" width="33%">
-<img width="60" src="https://img.shields.io/badge/AllState-000000?style=for-the-badge&logo=allstate&logoColor=white" /><br/>
+<img width="60" src="https://img.shields.io/badge/AllState-0d1117?style=for-the-badge&logoColor=00ff41" /><br/>
 <b>AllState Hall of Fame</b><br/>
 <sub>Fortune 100 recognition</sub>
 </td>
 <td align="center" width="33%">
-<img width="60" src="https://img.shields.io/badge/THM-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /><br/>
+<img width="60" src="https://img.shields.io/badge/THM-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41" /><br/>
 <b>TryHackMe #1</b><br/>
 <sub>Global monthly ranking</sub>
 </td>
@@ -112,10 +112,10 @@ Founder & CEO @ **[AwareXone](https://awarexone.com)** | Building a Community-Po
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/@shuvonsec-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shuvonsec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvonsec)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shuvonsec)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvonsec@gmail.com)
+[![Twitter](https://img.shields.io/badge/@shuvonsec-0d1117?style=for-the-badge&logo=x&logoColor=00ff41)](https://twitter.com/shuvonsec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://linkedin.com/in/shuvonsec)
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00ff41)](https://www.youtube.com/@shuvonsec)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:shuvonsec@gmail.com)
 
 <br/>
 
