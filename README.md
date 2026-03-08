@@ -1,95 +1,196 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shuvonsec.shuvonsec" />
-
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0BEB2E&center=true&vCenter=true&random=false&width=600&height=70&lines=Assalamu+Alaikum+%F0%9F%91%8B;I'm+Md+Shariar+Shanaz+Shuvon;Founder+%26+CEO+%40+AwareXone;Cybersecurity+Researcher+%F0%9F%94%90;Bug+Bounty+Hunter+%F0%9F%90%9B" alt="Typing SVG" /></a>
-
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
-
-</div>
-
----
-
-## 🛡️ About Me
-
-```yaml
-name: Md Shariar Shanaz Shuvon
-role: Founder & CEO @ AwareXone
-focus: Building Community-Powered Safety & Trust Infrastructure
-location: Malaysia
-pronouns: he/him
-website: https://awarexone.com
-portfolio: https://www.shuvonsec.me
-
-currently:
-  - 🔐 Leading AwareXone — Community-Powered Safety & Trust Infrastructure
-  - 🐛 Active Bug Bounty Hunter & Pentester
-  - 🌱 Cybersecurity Research & Development
-
-fun_fact: "I don't learn to hack, hack to learn."
-dream: Becoming a farmer 🌾
-```
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shuvonsec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvonsec)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/shuvonsec)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shuvonsec)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shuvonsec)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/shuvonsec)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/shuvonsec)
-[![Website](https://img.shields.io/badge/Portfolio-shuvonsec.me-0BEB2E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.shuvonsec.me/)
-[![Email](https://img.shields.io/badge/Email-shuvonsec%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvonsec@gmail.com)
-
-</div>
-
----
-
-## ⚒️ Languages, Frameworks & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,css,html,java,js,mysql,py,react" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,linux,androidstudio,powershell,bash,docker,github,gitlab,go" />
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
-## ⚡ GitHub Stats
-
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shuvonsec&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=shuvonsec&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shuvonsec&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
-</div>
-
----
-
-## ☕ Support
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/shuvonsec"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shuvonsec" /></a>
-  <a href="https://ko-fi.com/shuvonsec"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shuvonsec" /></a>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=SHUVONSEC&fontSize=80&fontColor=00ff41&fontAlignY=35&animation=fadeIn&desc=Breaking%20Things%20to%20Make%20Them%20Safer&descSize=18&descColor=ffffff&descAlignY=55" width="100%" />
 
 <br/>
 
+```
+██████╗ ██╗   ██╗ ██████╗     ██╗  ██╗██╗   ██╗███╗   ██╗████████╗███████╗██████╗
+██╔══██╗██║   ██║██╔════╝     ██║  ██║██║   ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
+██████╔╝██║   ██║██║  ███╗    ███████║██║   ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝
+██╔══██╗██║   ██║██║   ██║    ██╔══██║██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
+██████╔╝╚██████╔╝╚██████╔╝    ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║
+╚═════╝  ╚═════╝  ╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter;Founder+%26+CEO+%40+AwareXone;I+don't+learn+to+hack%2C+I+hack+to+learn.)](https://git.io/typing-svg)
+
+<br/>
+
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/shuvonsec)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/shuvonsec)
+[![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0iIzRDRTBCNCIvPjwvc3ZnPg==&logoColor=white)](https://intigriti.com)
+[![Portfolio](https://img.shields.io/badge/shuvonsec.me-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.shuvonsec.me/)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `$ whoami`
+
+```yaml
+name: Md Shariar Shanaz Shuvon
+alias: shuvonsec
+role: Founder & CEO @ AwareXone
+focus:
+  - Bug Bounty Hunting (HackerOne, Bugcrowd, Intigriti)
+  - AI/LLM Security Research
+  - Web Application Pentesting
+  - Building Claude-powered hunting tools
+location: Malaysia 🇲🇾
+dream: Becoming a farmer 🌾
+```
+
+</td>
+<td width="50%" valign="top">
+
+### `$ cat /etc/skills`
+
+```
+OFFENSIVE SECURITY
+├── Web App Pentesting (IDOR, SSRF, XSS, SQLi)
+├── API Security (GraphQL, REST, OAuth)
+├── AI/LLM Vulnerability Research
+├── Race Conditions & Business Logic
+├── Smart Contract Auditing (EVM, Solana)
+└── Cloud Security (AWS, GCP)
+
+TOOLS I BUILD
+├── claude-bug-bounty (AI-native hunting framework)
+├── recon-engine (automated subdomain + live host enum)
+├── graphql-idor-scanner
+├── oauth-security-tester
+├── race-condition-tester
+└── zero-day-fuzzer
+```
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
-  <img src="https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp" alt="Hacker" />
-  <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2EF76C&center=true&vCenter=true&width=435&lines=Thanks+for+Visiting+My+Profile+%F0%9F%92%9A" alt="Typing SVG" /></a>
+
+### Hunting With AI — The Toolkit
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**[claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)**
+<br/>
+`Full AI hunting framework`
+<br/>
+Recon → Intel → Hunt → Validate → Report
+
+</td>
+<td align="center" width="25%">
+
+**[recon-engine](https://github.com/shuvonsec/recon-engine)**
+<br/>
+`Subdomain + live host enum`
+<br/>
+subfinder + httpx + katana pipeline
+
+</td>
+<td align="center" width="25%">
+
+**[graphql-idor-scanner](https://github.com/shuvonsec/graphql-idor-scanner)**
+<br/>
+`GraphQL mutation IDOR`
+<br/>
+Cross-account object access detection
+
+</td>
+<td align="center" width="25%">
+
+**[zero-day-fuzzer](https://github.com/shuvonsec/zero-day-fuzzer)**
+<br/>
+`Novel bug discovery`
+<br/>
+Logic flaws, edge cases, access control
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**[oauth-security-tester](https://github.com/shuvonsec/oauth-security-tester)**
+<br/>
+`OAuth flow auditor`
+<br/>
+PKCE, state, redirect_uri bypass
+
+</td>
+<td align="center">
+
+**[race-condition-tester](https://github.com/shuvonsec/race-condition-tester)**
+<br/>
+`Parallel request racer`
+<br/>
+TOCTOU, limit overrun, coupon abuse
+
+</td>
+<td align="center">
+
+**[ai-copilot-probe](https://github.com/shuvonsec/ai-copilot-probe)**
+<br/>
+`LLM/AI vuln prober`
+<br/>
+Prompt injection, chatbot IDOR, exfil
+
+</td>
+<td align="center">
+
+**[cve-hunter](https://github.com/shuvonsec/cve-hunter)**
+<br/>
+`CVE matcher`
+<br/>
+Fingerprint tech → find known vulns
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shuvonsec&count_private=true&theme=chartreuse-dark&border_radius=10&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="streak"/>
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=shuvonsec&count_private=true&show_icons=true&theme=chartreuse-dark&border_radius=10&icon_color=00ff41&title_color=00ff41" alt="stats"/>
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shuvonsec&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&title_color=00ff41" alt="langs"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Connect
+
+[![Twitter](https://img.shields.io/badge/@shuvonsec-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shuvonsec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shuvonsec)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shuvonsec)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shuvonsec@gmail.com)
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/shuvonsec"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" height="45" width="180" alt="Buy Me A Coffee" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" width="100%" />
+
 </div>
