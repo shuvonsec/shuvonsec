@@ -17,7 +17,7 @@
 
 ## About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="hacker cat"/>
+<img align="right" width="300" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="hackerman meme"/>
 
 Founder & CEO @ **[AwareXone](https://awarexone.com)** | Building a Community-Powered Safety & Trust Infrastructure | Cybersecurity Researcher | Web3 Bug Hunter | Dreaming of becoming a farmer
 
