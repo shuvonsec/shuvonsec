@@ -2,24 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=SHUVONSEC&fontSize=80&fontColor=00ff41&fontAlignY=35&animation=fadeIn&desc=Breaking%20Things%20to%20Make%20Them%20Safer&descSize=18&descColor=ffffff&descAlignY=55" width="100%" />
 
-<br/>
-
-```
-██████╗ ██╗   ██╗ ██████╗     ██╗  ██╗██╗   ██╗███╗   ██╗████████╗███████╗██████╗
-██╔══██╗██║   ██║██╔════╝     ██║  ██║██║   ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗
-██████╔╝██║   ██║██║  ███╗    ███████║██║   ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝
-██╔══██╗██║   ██║██║   ██║    ██╔══██║██║   ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗
-██████╔╝╚██████╔╝╚██████╔╝    ██║  ██║╚██████╔╝██║ ╚████║   ██║   ███████╗██║  ██║
-╚═════╝  ╚═════╝  ╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter;Founder+%26+CEO+%40+AwareXone;I+don't+learn+to+hack%2C+I+hack+to+learn.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Cybersecurity+Researcher+%7C+Bug+Bounty+Hunter;Founder+%26+CEO+%40+AwareXone;I+don't+learn+to+hack%2C+I+hack+to+learn.)](https://git.io/typing-svg)
 
 <br/>
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/shuvonsec)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/shuvonsec)
-[![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIgZmlsbD0iIzRDRTBCNCIvPjwvc3ZnPg==&logoColor=white)](https://intigriti.com)
+[![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logoColor=white)](https://intigriti.com)
 [![Portfolio](https://img.shields.io/badge/shuvonsec.me-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.shuvonsec.me/)
 
 </div>
@@ -40,9 +29,9 @@ focus:
   - Bug Bounty Hunting (HackerOne, Bugcrowd, Intigriti)
   - AI/LLM Security Research
   - Web Application Pentesting
-  - Building Claude-powered hunting tools
-location: Malaysia 🇲🇾
-dream: Becoming a farmer 🌾
+  - Building AI-powered hunting tools
+location: Malaysia
+dream: Becoming a farmer
 ```
 
 </td>
@@ -60,8 +49,8 @@ OFFENSIVE SECURITY
 └── Cloud Security (AWS, GCP)
 
 TOOLS I BUILD
-├── claude-bug-bounty (AI-native hunting framework)
-├── recon-engine (automated subdomain + live host enum)
+├── claude-bug-bounty (AI hunting framework)
+├── recon-engine (subdomain + live host enum)
 ├── graphql-idor-scanner
 ├── oauth-security-tester
 ├── race-condition-tester
@@ -88,7 +77,7 @@ TOOLS I BUILD
 <br/>
 `Full AI hunting framework`
 <br/>
-Recon → Intel → Hunt → Validate → Report
+Recon > Intel > Hunt > Validate > Report
 
 </td>
 <td align="center" width="25%">
@@ -120,7 +109,7 @@ Logic flaws, edge cases, access control
 </td>
 </tr>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
 **[oauth-security-tester](https://github.com/shuvonsec/oauth-security-tester)**
 <br/>
@@ -129,7 +118,7 @@ Logic flaws, edge cases, access control
 PKCE, state, redirect_uri bypass
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
 **[race-condition-tester](https://github.com/shuvonsec/race-condition-tester)**
 <br/>
@@ -138,7 +127,7 @@ PKCE, state, redirect_uri bypass
 TOCTOU, limit overrun, coupon abuse
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
 **[ai-copilot-probe](https://github.com/shuvonsec/ai-copilot-probe)**
 <br/>
@@ -147,13 +136,13 @@ TOCTOU, limit overrun, coupon abuse
 Prompt injection, chatbot IDOR, exfil
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
 **[cve-hunter](https://github.com/shuvonsec/cve-hunter)**
 <br/>
 `CVE matcher`
 <br/>
-Fingerprint tech → find known vulns
+Fingerprint tech > find known vulns
 
 </td>
 </tr>
@@ -165,12 +154,21 @@ Fingerprint tech → find known vulns
 
 ### GitHub Stats
 
-<img width="49%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=shuvonsec&count_private=true&theme=chartreuse-dark&border_radius=10&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="streak"/>
-<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=shuvonsec&count_private=true&show_icons=true&theme=chartreuse-dark&border_radius=10&icon_color=00ff41&title_color=00ff41" alt="stats"/>
+<picture>
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvonsec&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border_radius=10" alt="streak"/>
+</picture>
+<picture>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=shuvonsec&count_private=true&show_icons=true&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=ffffff&border_radius=10&rank_icon=github" alt="stats"/>
+</picture>
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shuvonsec&hide=HTML&langs_count=8&layout=compact&theme=chartreuse-dark&border_radius=10&title_color=00ff41" alt="langs"/>
+<picture>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvonsec&hide=HTML&langs_count=8&layout=compact&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=ffffff&border_radius=10" alt="langs"/>
+</picture>
+<picture>
+  <img width="390" src="https://github-readme-activity-graph.vercel.app/graph?username=shuvonsec&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=false&custom_title=Contribution%20Graph&border_color=00ff41&radius=10" alt="activity"/>
+</picture>
 
 </div>
 
