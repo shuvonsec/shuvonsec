@@ -6,8 +6,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/shuvonsec.me-00FF41?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://www.shuvonsec.me/)
-[![AwareXone](https://img.shields.io/badge/AwareXone-00FF41?style=for-the-badge&logo=googlechrome&logoColor=0d1117)](https://awarexone.com)
+[![Portfolio](https://img.shields.io/badge/shuvonsec.me-161b22?style=for-the-badge&logo=googlechrome&logoColor=00ff41)](https://www.shuvonsec.me/)
+[![AwareXone](https://img.shields.io/badge/AwareXone-161b22?style=for-the-badge&logo=googlechrome&logoColor=00ff41)](https://awarexone.com)
 
 </div>
 
