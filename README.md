@@ -6,10 +6,8 @@
 
 <br/>
 
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/shuvonsec)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/shuvonsec)
-[![Intigriti](https://img.shields.io/badge/Intigriti-161A36?style=for-the-badge&logoColor=white)](https://intigriti.com)
 [![Portfolio](https://img.shields.io/badge/shuvonsec.me-00FF41?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.shuvonsec.me/)
+[![AwareXone](https://img.shields.io/badge/AwareXone-0d1117?style=for-the-badge&logo=shield&logoColor=00ff41)](https://awarexone.com)
 
 </div>
 
