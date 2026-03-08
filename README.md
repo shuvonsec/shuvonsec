@@ -19,14 +19,15 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="hacker cat"/>
 
-- Founder & CEO @ **[AwareXone](https://awarexone.com)** — SafetyTech platform
+Founder & CEO @ **[AwareXone](https://awarexone.com)** | Building a Community-Powered Safety & Trust Infrastructure | Cybersecurity Researcher | Web3 Bug Hunter | Dreaming of becoming a farmer
+
 - NASA-acknowledged vulnerability researcher (age 17)
 - **#1 worldwide** on TryHackMe monthly leaderboard
 - Featured by **153+ media outlets** globally
-- Active bug hunter on **HackerOne, Bugcrowd, Intigriti**
+- Active bug hunter on **HackerOne, Bugcrowd, Intigriti, Immunefi**
+- Web3 security auditor — EVM, Solana, DeFi protocols
 - Building AI-powered security tools with Claude
 - Based in Cyberjaya, Malaysia
-- Dream: Becoming a farmer one day
 
 <br clear="right"/>
 
