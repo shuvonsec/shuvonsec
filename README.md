@@ -154,21 +154,11 @@ Fingerprint tech > find known vulns
 
 ### GitHub Stats
 
-<picture>
-  <img width="390" src="https://streak-stats.demolab.com/?user=shuvonsec&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border_radius=10" alt="streak"/>
-</picture>
-<picture>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=shuvonsec&count_private=true&show_icons=true&bg_color=0d1117&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=ffffff&border_radius=10&rank_icon=github" alt="stats"/>
-</picture>
+<img width="800" src="https://streak-stats.demolab.com/?user=shuvonsec&theme=dark&background=0d1117&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border_radius=10" alt="streak"/>
 
 <br/>
 
-<picture>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvonsec&hide=HTML&langs_count=8&layout=compact&bg_color=0d1117&border_color=00ff41&title_color=00ff41&text_color=ffffff&border_radius=10" alt="langs"/>
-</picture>
-<picture>
-  <img width="390" src="https://github-readme-activity-graph.vercel.app/graph?username=shuvonsec&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=false&custom_title=Contribution%20Graph&border_color=00ff41&radius=10" alt="activity"/>
-</picture>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=shuvonsec&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=false&custom_title=Contribution%20Graph&border_color=00ff41&radius=10" alt="activity"/>
 
 </div>
 
