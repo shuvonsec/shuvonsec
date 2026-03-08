@@ -74,25 +74,20 @@ Founder & CEO @ **[AwareXone](https://awarexone.com)** | Building a Community-Po
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img width="60" src="https://img.shields.io/badge/NASA-000000?style=for-the-badge&logo=nasa&logoColor=white" /><br/>
 <b>NASA Hall of Fame</b><br/>
 <sub>Critical vuln disclosure at 17</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img width="60" src="https://img.shields.io/badge/AllState-000000?style=for-the-badge&logo=allstate&logoColor=white" /><br/>
 <b>AllState Hall of Fame</b><br/>
 <sub>Fortune 100 recognition</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img width="60" src="https://img.shields.io/badge/THM-000000?style=for-the-badge&logo=tryhackme&logoColor=white" /><br/>
 <b>TryHackMe #1</b><br/>
 <sub>Global monthly ranking</sub>
-</td>
-<td align="center" width="25%">
-<img width="60" src="https://img.shields.io/badge/500+-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" /><br/>
-<b>500+ Vulnerabilities</b><br/>
-<sub>NASA, Google, Meta, Sony...</sub>
 </td>
 </tr>
 </table>
