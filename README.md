@@ -17,7 +17,7 @@
 
 ## About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding"/>
+<img align="right" width="300" src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="hacker cat"/>
 
 - Founder & CEO @ **[AwareXone](https://awarexone.com)** — SafetyTech platform
 - NASA-acknowledged vulnerability researcher (age 17)
