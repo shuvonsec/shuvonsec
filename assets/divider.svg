@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 26" width="900" height="26" role="img" aria-label="binary divider">
+<defs>
+  <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0"    stop-color="#00ff41" stop-opacity="0"/>
+    <stop offset="0.22" stop-color="#00ff41" stop-opacity="0.55"/>
+    <stop offset="0.5"  stop-color="#22d3ee" stop-opacity="0.45"/>
+    <stop offset="0.78" stop-color="#a78bfa" stop-opacity="0.45"/>
+    <stop offset="1"    stop-color="#a78bfa" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0"    stop-color="#fff" stop-opacity="0"/>
+    <stop offset="0.18" stop-color="#fff" stop-opacity="1"/>
+    <stop offset="0.82" stop-color="#fff" stop-opacity="1"/>
+    <stop offset="1"    stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <mask id="edgemask"><rect x="0" y="0" width="900" height="26" fill="url(#fade)"/></mask>
+  <style>.b{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-size:11px;fill:#00ff41}</style>
+</defs>
+
+<g mask="url(#edgemask)" opacity="0.42">
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="26s" repeatCount="indefinite"/>
+    <text class="b" x="0"   y="10" textLength="900" lengthAdjust="spacing">01001000 01010101 01001110 01010100 00100000 01110100 01101000 01100101 00100000 01100010 01110101 01100111</text>
+    <text class="b" x="900" y="10" textLength="900" lengthAdjust="spacing">01001000 01010101 01001110 01010100 00100000 01110100 01101000 01100101 00100000 01100010 01110101 01100111</text>
+  </g>
+</g>
+
+<rect x="0" y="18" width="900" height="1.4" fill="url(#rule)"/>
+</svg>
