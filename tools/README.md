@@ -19,4 +19,3 @@ watermark pixels, applies a separable falloff so the torso dissolves into the
 terminal, then maps luminance onto the matrix ramp in `RAMP`. Text content for
 the neofetch panel is the `FIELDS` array.
 
-`../assets/divider.svg` is hand-written. The binary reads `HUNT the bug`.
