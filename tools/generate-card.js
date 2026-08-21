@@ -1,9 +1,9 @@
 'use strict';
 // Profile card: portrait on the left, neofetch-style readout on the right.
 //
-//   node gen-card.js <out.svg> ascii|pixel
+//   node tools/generate-card.js <out.svg> image|ascii|pixel
 //
-// Both portrait modes share the same panel and the same chrome-free layout.
+// All three portrait modes share the same panel and the same chrome-free layout.
 // Alignment in the panel relies on everything being monospace: each line is
 // padded to a fixed CHARACTER count, so columns line up whatever monospace font
 // the viewer actually has.
@@ -12,18 +12,31 @@ const path = require('path');
 const { build } = require('./ascii.js');
 
 const dest = process.argv[2] || path.join(__dirname, 'card.svg');
-const MODE = (process.argv[3] || 'ascii').toLowerCase();
+const MODE = (process.argv[3] || 'image').toLowerCase();
 
 const MONO = "ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace";
-const W = 900, H = 360;
+const W = 900;
 const PAD = 12;
-const ART_W = 300;
+const ART_ASPECT = 1190 / 1154;         // the crop box measured out of art.png
+
+// Per-mode geometry. `image` is the shipped mode: the hand-made portrait is
+// close to square, so it drives a taller card and a narrower panel.
+const LAYOUT = {
+  image: { artW: 400, gap: 24, cols: 68, halfL: 32, font: 11, lh: 14.5, y0: 73, h: null },
+  ascii: { artW: 300, gap: 40, cols: 76, halfL: 36, font: 11.5, lh: 15, y0: 32, h: 360 },
+  pixel: { artW: 300, gap: 40, cols: 76, halfL: 36, font: 11.5, lh: 15, y0: 32, h: 360 },
+};
+const LO = LAYOUT[MODE] || LAYOUT.image;
+
+const ART_W = LO.artW;
+const ART_H = Math.round(ART_W * ART_ASPECT);
+const H = LO.h || ART_H + PAD * 2;
 
 // ---- panel ------------------------------------------------------------------
-const PANEL_X = 340;
-const PANEL_FONT = 11.5;
-const PANEL_LH = 15;
-const COLS = 76;
+const PANEL_X = PAD + ART_W + LO.gap;
+const PANEL_FONT = LO.font;
+const PANEL_LH = LO.lh;
+const COLS = LO.cols;
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
@@ -59,10 +72,10 @@ const STATS = [
   [['Commits', '288'], ['Followers', '357']],
   [['Forks of my repos', '923'], ['Contributions', '1,236']],
 ];
-const HALF_L = 36, HALF_R = COLS - HALF_L - 3;
+const HALF_L = LO.halfL, HALF_R = COLS - HALF_L - 3;
 
 const out = [];
-let y = 32;
+let y = LO.y0;
 const emit = (frags) => { out.push(`<text x="${PANEL_X}" y="${y.toFixed(2)}" class="p" xml:space="preserve">${frags}</text>`); y += PANEL_LH; };
 const t = (cls, s) => `<tspan class="${cls}">${esc(s)}</tspan>`;
 const row = (l) => emit(`${t('dt', '. ')}${t('lb', l.head.slice(2))}${t('do', ' ' + l.dots + ' ')}${t('vl', l.value)}`);
@@ -85,12 +98,33 @@ for (const [a, b] of STATS) {
 // ---- portrait ---------------------------------------------------------------
 let portrait, artFontRule = '';
 
-if (MODE === 'ascii') {
+if (MODE === 'image') {
+  // The hand-made portrait, embedded and masked by its own luminance so the
+  // black background drops out entirely instead of drawing a rectangle. `crush`
+  // pulls near-black to zero, otherwise JPEG noise hazes the whole box.
+  const jpg = fs.readFileSync(path.join(__dirname, 'art-crop.jpg')).toString('base64');
+  const box = `x="${PAD}" y="${PAD}" width="${ART_W}" height="${ART_H}"`;
+  const crush = ['R', 'G', 'B'].map((c) => `<feFunc${c} type="linear" slope="1.6" intercept="-0.15"/>`).join('');
+  portrait = [
+    '<defs>',
+    '<filter id="crush" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">',
+    `<feComponentTransfer>${crush}</feComponentTransfer></filter>`,
+    '<linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">',
+    '<stop offset="0" stop-color="#a8ffc6"/><stop offset="0.55" stop-color="#2ee06a"/><stop offset="1" stop-color="#0f9b4c"/>',
+    '</linearGradient>',
+    `<mask id="art" maskUnits="userSpaceOnUse" ${box}>`,
+    `<image ${box} preserveAspectRatio="none" filter="url(#crush)" href="data:image/jpeg;base64,${jpg}"/>`,
+    '</mask>',
+    '</defs>',
+    `<rect ${box} fill="url(#ink)" mask="url(#art)"/>`,
+  ].join('');
+  console.error(`image art ${ART_W}x${ART_H} base64=${(jpg.length / 1024).toFixed(0)}KB`);
+} else if (MODE === 'ascii') {
   const CROP_W = 176, CROP_H = 240, ART_COLS = 60, ART_ROWS = 40;
-  const ART_H = ART_W * (CROP_H / CROP_W);
+  const artH = ART_W * (CROP_H / CROP_W);
   const adv = ART_W / ART_COLS;
   const font = adv / 0.6;                 // monospace advance is 0.6em
-  const lh = ART_H / ART_ROWS;
+  const lh = artH / ART_ROWS;
   const art = build({
     file: path.join(__dirname, 'pixels-face60.txt'),
     padL: 2, padR: 2,
@@ -166,4 +200,4 @@ ${out.join('\n')}
 `;
 
 fs.writeFileSync(dest, svg, 'utf8');
-console.log(`wrote ${dest} mode=${MODE} ${(svg.length / 1024).toFixed(1)}KB panel=${out.length} lines bottom=${y.toFixed(0)}`);
+console.log(`wrote ${dest} mode=${MODE} ${(svg.length / 1024).toFixed(1)}KB panel=${out.length} lines bottom=${y.toFixed(0)} card=${W}x${H}`);
