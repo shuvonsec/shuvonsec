@@ -1,6 +1,6 @@
 # Regenerating the card
 
-`../assets/hero.svg` is generated, not hand-edited.
+`../assets/card.svg` is generated, not hand-edited.
 
 ```powershell
 # 1. resample avatar.jpg into grids of hex colours
@@ -8,7 +8,7 @@ powershell -File tools/sample-avatar.ps1     # -> pixels2.txt      (40x50, pixel
 powershell -File tools/sample-face60.ps1     # -> pixels-face60.txt (60x80, ASCII portrait)
 
 # 2. build the card
-node tools/generate-card.js assets/hero.svg pixel     # shipped version
+node tools/generate-card.js assets/card.svg pixel     # shipped version
 node tools/generate-card.js /tmp/alt.svg     ascii    # ASCII-character portrait
 ```
 
